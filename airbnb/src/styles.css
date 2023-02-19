@@ -33,3 +33,28 @@ section {
 .hero-text {
     margin-top: 0;
 }
+
+.card {
+    width: 175px;
+    font-size: 12px;
+}
+
+.cardPhoto {
+    width: 180px;
+    border-radius: 9px;
+}
+
+.starPhoto {
+    /* padding-top: 10px; */
+    padding-right: 5px;
+    width: 25px;
+}
+
+.cardStats {
+    display: flex;
+    align-items: center;
+}
+
+.bold {
+    font-weight: bold;
+}
